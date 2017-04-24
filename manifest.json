@@ -1,6 +1,6 @@
 {
-  "name":“GitHub Pages Home“,
-  "short_name":“Home Page“,
+  "name": "GitHub Pages Home",
+  "short_name": "Home Page",
   "start_url": "/",
   "display": "standalone",
   "gcm_sender_id": "482941778795",
